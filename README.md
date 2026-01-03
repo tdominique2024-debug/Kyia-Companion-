@@ -1,1 +1,1 @@
-# Kyia-Companion-Readme
+# Kyia-Companion-Readme.md
